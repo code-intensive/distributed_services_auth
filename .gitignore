@@ -1,0 +1,4 @@
+.vscode/
+.env
+manifests/auth-secret.yml
+__pycache__
